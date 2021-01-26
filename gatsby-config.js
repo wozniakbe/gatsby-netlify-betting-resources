@@ -102,16 +102,6 @@ module.exports = {
           policy: [{ userAgent: '*', disallow: '' }],
         },
       },
-    'gatsby-plugin-offline',
-    {
-      resolve: "gatsby-source-google-spreadsheet",
-      options: {
-        spreadsheetId: "1umxMmGqVG6YYcGcbSWIJ0kz8zj7m_EdSYV9J27poUks",
-        spreadsheetName: "Betting History", // todo
-        typePrefix: "GoogleSpreadsheet",
-        filterNode: () => true,
-        mapNode: node => node
-      }
-    }
+    'gatsby-plugin-offline'
   ],
 }
