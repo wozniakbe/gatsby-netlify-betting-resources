@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "Betsby",
+    "titleTemplate": "%s",
+    "description": "Betting resources",
+    "siteUrl": "https://site.netlify.app/",
+    "image": "/assets/sportsbook.jpeg",
+    "twitterUsername": "@ProAmPicks"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
