@@ -20,10 +20,6 @@ const MenuItems = [
     title: "Analysis"
   },
   {
-    path: "/all-time-picks",
-    title: "All-Time Picks"
-  },
-  {
     path: "/contact",
     title: "Contact"
   },
